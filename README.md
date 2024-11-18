@@ -1,5 +1,7 @@
 From the Nordeus Challenge website: https://nordeus.com/nordeus-challenge/full-stack/
 
+If you want to play it, download and unpack Release.zip
+
 Intro
 
 On most projects in Nordeus there are 3 developer roles working on it: Backend, Client, and QA (Quality Assurance). Imagine you are a part of a small team of selected people in Nordeus. As the only developer there you are going to be responsible for all parts of the project that are usually done by all of these dev roles.
